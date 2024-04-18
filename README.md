@@ -1,4 +1,4 @@
-rm File
+rm -rf File
 
 git clone https://github.com/FORID-404/File
 
